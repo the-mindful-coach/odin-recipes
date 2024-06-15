@@ -1,0 +1,55 @@
+/* Jamaican-rice and peas styles.css */
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+}
+
+.heading{
+    background-color: rgb(242, 231, 115);
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color:green
+    
+}
+
+.img-1{
+    display: block;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    max-width: 100%;
+
+
+
+} 
+
+.paragraph-1{
+    text-align: center;
+    
+}
+
+.heading-2{
+    color: green;
+    font-size: 32px;
+    text-align: center;
+ }
+
+ .adjust-alignment{
+    text-align: left;
+ }
+    
+
+
+.paragraph-2{
+    color: green;
+    text-align:left;
+}
+
+.emphasis{
+    color:grey
+
+}
