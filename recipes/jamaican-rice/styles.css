@@ -10,18 +10,27 @@
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    color:green
+    color:green;
+    margin: 20px;
+    box-sizing: border-box;
+    padding: 0 200px 0 200px;
     
 }
 
 .img-1{
-    display: block;
+    display:block;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 600px;
-    max-width: 100%;
+    width:max-content;
+    max-width: 600px;
+    box-sizing: border-box;
+  
+ 
+
+
 
 
 
@@ -29,6 +38,7 @@
 
 .paragraph-1{
     text-align: center;
+    font-size: 20px;
     
 }
 
@@ -40,6 +50,7 @@
 
  .adjust-alignment{
     text-align: left;
+    margin-left:50px;
  }
     
 
@@ -47,9 +58,14 @@
 .paragraph-2{
     color: green;
     text-align:left;
+    margin-left:30px;
 }
 
 .emphasis{
     color:grey
 
+}
+
+.div {
+   background-color: yellow;
 }
